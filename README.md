@@ -1,4 +1,4 @@
-<div align="center">
+ //hey bro i just wanna ask how can i add a vertical line or a timer with it when the user click a buy or sell button this is the only way i can talk to you <div align="center">
   <a href="https://klinecharts.com">
     <img src="https://github.com/liihuu/KLineChart/assets/10508024/c55f301a-e0a2-422c-a9d5-fd960de68ba3"/>
   </a>
